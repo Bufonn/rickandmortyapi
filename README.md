@@ -1,4 +1,3 @@
-Aqui está um **README simples, objetivo e resumido**, exatamente como você pediu:
 
 ---
 
